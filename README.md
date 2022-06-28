@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skyblue38
 - 👀 I’m interested in most things technical
-- 🌱 I’m currently learning API security
-- 💞️ I’m looking to collaborate on development of API scurity lessons for PenTesting subject in Adv.Dip.CyberSecurity course
+- 🌱 I’m currently learning container orchestration
+- 💞
 - 📫 To reach me send eMail to skyblue AT GranthamHall.com 
 
 <!---
