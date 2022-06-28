@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @skyblue38
 - 👀 I’m interested in most things technical
 - 🌱 I’m currently learning container orchestration
-- 💞
 - 📫 To reach me send eMail to skyblue AT GranthamHall.com 
 
 <!---
